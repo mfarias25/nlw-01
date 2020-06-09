@@ -16,8 +16,8 @@ Layout	Next Level Week #01 🚀
 
 ## Mobile
 <h1 align="center">
-    <img title="mobile01" src="./github/mobile.png" />
-    <img title="mobile02" src="./github/Details-mobile.svg" />
+    <img title="mobile01" width='85%' src="./github/mobile.png" />
+    <img title="mobile02" width='85%' src="./github/Details-mobile.svg" />
 </h1>
 🚀 Tecnologias no Projeto
 
