@@ -10,8 +10,10 @@
 ## Layout
 O layout da aplicação está disponível no Figma:
 <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img  src="./github/banner.png">
 </a>
+
+
 ### Mobile
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/mobile.png" width="200px">
