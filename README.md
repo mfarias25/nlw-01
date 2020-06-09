@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/banner.png" />
+    <img src="./github-assets/banner.png" />
 </h1>
 
 
@@ -20,11 +20,6 @@ O layout da aplicação está disponível no Figma:
   <img src="./github/Details-mobile.svg" width="200px">
 </p>
 
-<p align="center">
-
-</p>
-
-
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -33,6 +28,5 @@ O layout da aplicação está disponível no Figma:
 </p>
 
 <p align="center">
-
   <img src="./github/WEB.svg" width="400px">
 </p>
