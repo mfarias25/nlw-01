@@ -1,5 +1,5 @@
 <h1 align="center"> 
-## Layout	NextLevelWeek #01 🚀
+Layout	Next Level Week #01 🚀
 </h1>
 
 ## Layout
@@ -11,14 +11,14 @@
 
 ## Web
 <h1 align="center">
-    <img width='85%' alt="Web Thumb" title="#web" src="./github/WEB.svg" />
+    <img width='85%'  title="web01" src="./github/WEB.svg" />
 </h1>
 
 ## Mobile
 <h1 align="center">
-    <img alt="Mobile Thumb" title="#mobile" src="./github/mobile.png" />
+    <img title="mobile01" src="./github/mobile.png" />
 </h1>
-## 🚀 Tecnologias utilizadas no Projeto
+🚀 Tecnologias no Projeto
 
 - [React](https://reactjs.org/ "React")
 - [React Native](https://reactnative.dev/ "React Native")
