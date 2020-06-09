@@ -16,8 +16,8 @@ O layout da aplicação está disponível no Figma:
 
 ### Mobile
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/mobile.png" width="200px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/Details-mobile.svg" width="200px">
+  <img src="./github/mobile.png" width="200px">
+  <img src="./github/Details-mobile.svg" width="200px">
 </p>
 
 <p align="center">
@@ -28,13 +28,11 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/home-web.svg" width="300px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/WEB.svg" width="200px">
+  <img  src="./github-assets/home-web.svg" width="300px">
+  <img src="./github-assets/web.svg" width="400px">
 </p>
 
 <p align="center">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github/WEB.svg" width="400px">
+  <img src="./github/WEB.svg" width="400px">
 </p>
