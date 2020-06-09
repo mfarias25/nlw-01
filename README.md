@@ -1,11 +1,6 @@
-<h4 align="center"> 
-	NextLevelWeek #01 🚀
-</h4>
-
-<h1 align="center">
-    <img src="./github-assets/banner.png" />
+<h1 align="center"> 
+## Layout	NextLevelWeek #01 🚀
 </h1>
-
 
 ## Layout
 O layout da aplicação está disponível no Figma:
@@ -14,19 +9,21 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-### Mobile
-<p align="center">
-  <img src="./github/mobile.png" width="200px">
-  <img src="./github/Details-mobile.svg" width="200px">
-</p>
+## Web
+<h1 align="center">
+    <img width='85%' alt="Web Thumb" title="#web" src=".github/WEB.svg" />
+</h1>
 
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img  src="./github-assets/home-web.svg" width="300px">
-  <img src="./github-assets/web.svg" width="400px">
-</p>
-
-<p align="center">
-  <img src="./github/WEB.svg" width="400px">
-</p>
+## Mobile
+<h1 align="center">
+    <img alt="Mobile Thumb" title="#mobile" src=".github/mobile.png" />
+</h1>
+## 🚀 Tecnologias utilizadas no Projeto
+- [React](https://reactjs.org/ "React")
+- [React Native](https://reactnative.dev/ "React Native")
+- [NodeJs](https://nodejs.org/en/ "NodeJs")
+- [Typescript](https://www.typescriptlang.org/ "Typescript")
+- [Express](https://expressjs.com/ "Express")
+- [Expo](https://expo.io/tools#cli "Expo-Cli")
+- [Knex](http://knexjs.org/ "Knex")
+- [Axios](https://github.com/axios/axios "Axios")
